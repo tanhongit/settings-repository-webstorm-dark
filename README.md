@@ -23,6 +23,11 @@ You can change color correction, and interface similar to the Dark theme in WebS
 - https://plugins.jetbrains.com/plugin/7499-gittoolbox
 - https://plugins.jetbrains.com/plugin/7017-plantuml-integration
 - https://plugins.jetbrains.com/plugin/17467-react-buddy
+- https://plugins.jetbrains.com/plugin/10650-json-parser
+
+Optional:
+
+- https://plugins.jetbrains.com/plugin/10485-kubernetes
 
 ---
 
