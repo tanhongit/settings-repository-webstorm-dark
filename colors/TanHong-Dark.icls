@@ -1,5 +1,4 @@
 <scheme name="TanHong-Dark" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2023-05-09T23:16:35</property>
     <property name="ide">WebStorm</property>
@@ -7,9 +6,6 @@
     <property name="modified">2023-06-03T16:32:40</property>
     <property name="originalScheme">_@user_TanHong</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Inter-Regular" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="26cd26" />
     <option name="CARET_COLOR" value="adaeac" />
@@ -1176,7 +1172,7 @@
         <option name="FOREGROUND" value="4ec9b0" />
       </value>
     </option>
-    <option name="SASS_COMMENT" baseAttributes="" />
+    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="SASS_EXTEND">
       <value>
         <option name="FOREGROUND" value="c586c0" />
