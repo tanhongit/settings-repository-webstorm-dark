@@ -1,0 +1,15 @@
+<keymap version="1" name="macOS tanhongit" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="shift meta 7" />
+  </action>
+  <action id="MergeAllWindowsAction">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt enter" />
+  </action>
+  <action id="Terminal.SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift ctrl meta down" />
+  </action>
+  <action id="Terminal.SplitVertically">
+    <keyboard-shortcut first-keystroke="shift ctrl meta right" />
+  </action>
+</keymap>
