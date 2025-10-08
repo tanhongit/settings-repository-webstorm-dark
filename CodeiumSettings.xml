@@ -1,5 +1,6 @@
 <application>
   <component name="com.codeium.intellij.settings.AppSettingsState">
+    <option name="autocompleteEnabled" value="false" />
     <option name="cascadeOnboardingCompleted" value="true" />
     <option name="completedCascadeOnboardingItems">
       <list>
