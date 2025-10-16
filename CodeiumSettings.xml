@@ -2,6 +2,7 @@
   <component name="com.codeium.intellij.settings.AppSettingsState">
     <option name="autocompleteEnabled" value="false" />
     <option name="cascadeOnboardingCompleted" value="true" />
+    <option name="chatInlayEnabled" value="false" />
     <option name="completedCascadeOnboardingItems">
       <list>
         <option value="ONBOARDING_ACTION_TYPE_CHAT" />
@@ -10,5 +11,9 @@
     <option name="enableCascadeToolWindow" value="false" />
     <option name="firstInstall" value="false" />
     <option name="hasShownPreReleaseNotification" value="true" />
+    <option name="openChatOnReload" value="false" />
+    <option name="showChatCommandHint" value="false" />
+    <option name="showExplainProblemInlayHint" value="false" />
+    <option name="showSelectionToolbar" value="false" />
   </component>
 </application>
