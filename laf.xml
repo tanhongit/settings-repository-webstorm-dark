@@ -2,6 +2,7 @@
   <component name="LafManager">
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="ExperimentalDark" scheme="TanHong-Dark" />
+      <laf-to-scheme laf="Islands Dark" scheme="TanHong-Dark" />
     </lafs-to-previous-schemes>
   </component>
 </application>
