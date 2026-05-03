@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="103.75.180.81" id="d6bd7c3a-d2fc-4e1f-9af1-65e53d969954" keyPath="$USER_HOME$/.ssh/vws" port="16473" nameFormat="DESCRIPTIVE" username="tannp" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
