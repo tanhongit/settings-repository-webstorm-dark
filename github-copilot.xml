@@ -9,5 +9,6 @@
     </languageAllowList>
     <option name="selectedCompletionModel" value="gpt-41-copilot" />
     <option name="terminalRulesVersion" value="1" />
+    <option name="legacyXdgConfigMigrated" value="true" />
   </component>
 </application>

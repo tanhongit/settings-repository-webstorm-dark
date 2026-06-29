@@ -225,6 +225,19 @@
             <option name="folderIconColor" value="FFE0B2" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(linux|nux|unix)$" />
+            <option name="pattern" value="^[\._]?(linux|nux|unix)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Linux" />
+            <option name="icon" value="/linux.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="546E7A" />
+            <option name="folderIconColor" value="BDBDBD" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>
